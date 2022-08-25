@@ -1,2 +1,2 @@
 # belajarML
-kumpulan file belajar ML dari DICODING
+kumpulan file belajar ML 
